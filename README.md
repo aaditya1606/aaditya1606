@@ -31,9 +31,8 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="52" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:aadityashakya@yahoo.com">
-  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/yahoo-icon.png"
-       width="52" height="52" alt="Yahoo Mail">
+ <a href="mailto:aadityashakya@yahoo.com">
+  <img src="https://cdn.simpleicons.org/yahoo/FFFFFF" width="52" height="52" alt="Yahoo Mail">
 </a>
 </p>
 
