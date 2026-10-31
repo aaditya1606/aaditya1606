@@ -15,23 +15,27 @@
 # 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://github.com/aaditya1606" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub">
+  <a href="https://github.com/aaditya1606">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/aadi.tya16_" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram">
+  <a href="https://instagram.com/aadi.tya16_">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60" height="60" alt="Instagram">
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/aaditya1606/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode">
+  <a href="https://leetcode.com/u/aaditya1606/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" height="60" alt="LeetCode">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:aadityashakya2008@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" height="60" alt="Gmail">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:aadityashakya@yahoo.com">
-    <img src="https://cdn.simpleicons.org/yahoo/6001D2" width="48" alt="Yahoo Mail">
+    <img src="https://cdn.simpleicons.org/yahoo/6001D2" width="60" height="60" alt="Yahoo Mail">
   </a>
+</p>
+
+<p align="center">
+  <b>Let's build something together.</b>
 </p>
