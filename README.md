@@ -32,8 +32,9 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:aadityashakya@yahoo.com">
-    <img src="https://cdn.simpleicons.org/yahoo/6001D2" width="52" height="52" alt="Yahoo Mail">
-  </a>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/yahoo-icon.png"
+       width="52" height="52" alt="Yahoo Mail">
+</a>
 </p>
 
 <p align="center"><b>Let's build something together.</b></p>
